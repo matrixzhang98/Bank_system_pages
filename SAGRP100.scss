@@ -1,0 +1,15 @@
+@import '../../styles/variables.scss';
+
+.table td{
+    vertical-align: middle !important;
+}
+
+.table th{
+    vertical-align: middle !important;
+}
+
+.MuiCheckbox-root {
+    &.check_all {
+        color: #fff;
+    }       
+}
